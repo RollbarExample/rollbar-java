@@ -17,6 +17,7 @@ There are currently four libraries in this repository:
 * `rollbar-web`
 * `rollbar-android`
 * `rollbar-log4j2`
+* `rollbar-logback`
 
 `rollbar-api` is a set of data objects representing structures that make up the payload
 the backend API understands.
